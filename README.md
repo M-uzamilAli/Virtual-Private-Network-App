@@ -60,6 +60,3 @@ Packet loss of **0%, 2%, 5%** (via `tc netem`) × 4 configurations (No VPN, Wire
 
 **Metrics:** throughput, latency, packet loss and retransmissions, CPU use, VPN overhead (from captures), MTU behavior, connection setup time.
 
-## AI-Use Disclosure
-
-AI tools are used only for concept understanding, troubleshooting and documentation wording. All configurations, experiments and results are run and verified by the team.
