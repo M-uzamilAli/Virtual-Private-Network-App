@@ -1,7 +1,6 @@
 # Virtual Private Network App
 
 **Remote-Access and Site-to-Site VPN with WireGuard: Tunneling, Overhead and MTU**
-FAST, CS3001 Computer Networks, Project No. 6
 
 ## Overview
 
